@@ -1,4 +1,4 @@
-# Hi, I'm K from Good Folk 👋
+# Hi, I'm GFK 👋
 
 I'm a backend-focused developer who builds APIs, developer tools, and practical software products from idea to working system.
 
@@ -6,20 +6,18 @@ My strongest work sits at the intersection of backend engineering, product think
 
 ## Featured Projects
 
-### [Qlaim](https://github.com/MadeByGFK/QlaimPrime)
-A beta-tested mobile workforce platform built with React Native, Expo, GraphQL, Prisma, PostgreSQL, AWS S3, and EAS.
+### Rilivery 🔒 *(private)*
+Reporting automation for SQL and PowerShell workflows — queries and scripts run on a schedule, results land in Excel, and reports go out by email or SFTP. Credit-based billing. Currently in development.
 
-This earlier Qlaim architecture demonstrates multi-role workflows, secure authentication, assignment management, proof-photo uploads, API protections, and the process of taking a product beyond localhost and into real tester feedback.
+### [StackSift](https://github.com/MadeByGFK/StackSift)
+A Python log-triage tool that turns noisy application logs into quick incident summaries — severity counts, recurring issues ranked by severity, health verdicts, and the #1 thing to investigate first.
 
-### [Backend Starter](https://github.com/MadeByGFK/BackendStarter)
+Also hosted, free, no signup: [stacksift.goodfolkdigital.com](https://stacksift.goodfolkdigital.com)
+
+### [BackendStarter](https://github.com/MadeByGFK/BackendStarter)
 A reusable backend foundation built with TypeScript, Node.js, Express, Apollo GraphQL, Prisma, PostgreSQL, Docker, JWT authentication, and role-based access control.
 
 It is designed to remove repetitive setup work and provide a clean starting point for APIs, internal tools, and SaaS products.
-
-### [StackSift](https://github.com/MadeByGFK/StackSift)
-A Python CLI for faster log triage and operational troubleshooting.
-
-StackSift scans files or folders, counts severity levels, identifies recurring issues, tracks malformed lines, measures scan time, and saves readable analysis reports.
 
 ## Technical Focus
 
