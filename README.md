@@ -41,9 +41,6 @@ It is designed to remove repetitive setup work and provide a clean starting poin
 ## Current Direction
 
 I'm continuing to deepen my backend engineering, Linux, cloud, and production architecture skills while building practical tools and startup-scale software under the Goodfolk name.
-
-I'm also completing an associate degree in Computer Programming and expanding into Java alongside my TypeScript and Python work.
-
 ---
 
 **I build useful systems, not just demo screens.**
