@@ -6,9 +6,6 @@ My strongest work sits at the intersection of backend engineering, product think
 
 ## Featured Projects
 
-### Rilivery 🔒 *(private)*
-Reporting automation for SQL and PowerShell workflows — queries and scripts run on a schedule, results land in Excel, and reports go out by email or SFTP. Credit-based billing. Currently in development.
-
 ### [StackSift](https://github.com/MadeByGFK/StackSift)
 A Python log-triage tool that turns noisy application logs into quick incident summaries — severity counts, recurring issues ranked by severity, health verdicts, and the #1 thing to investigate first.
 
